@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, sou Miris 👋
 
-<!--
-**Nascimentorm/nascimentorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma **profissional multidisciplinar** com experiência em **dados, metodologias ágeis e experiência do cliente**.  
+Atualmente, estou focada no **desenvolvimento back-end com Python**, aprimorando minhas habilidades para criar aplicações escaláveis e eficientes.
 
-Here are some ideas to get you started:
+ 🚀 O que estou fazendo agora?
+ 
+✅ Aprofundamento de conhecimentos em Python, com ênfase no desenvolvimento de aplicações web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Exploração de frameworks como Flask, FastAPI e Django, visando a construção de soluções robustas e escaláveis.  
+
+✅ Desenvolvimento de projetos  para consolidar e aplicar as habilidades adquiridas, focando em desafios do mundo real.
+
+📫 Vamos conectar?
+
+<a href="mailto:nascimentorm@hotmail.com"><img src="https://img.shields.io/badge/Email-nascimentorm@hotmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email"></a>  
+<a href="https://www.linkedin.com/in/mirian-nascimento"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+
+
