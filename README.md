@@ -7,7 +7,7 @@ Atualmente, estou focada no **desenvolvimento back-end com Python**, aprimorando
  
 ✅ Aprofundamento de conhecimentos em Python, com ênfase no desenvolvimento de aplicações web
 
-✅ Exploração de frameworks como Flask, FastAPI e Django, visando a construção de soluções robustas e escaláveis.  
+✅ Exploração de frameworks como Flask e Django, visando a construção de soluções robustas e escaláveis.  
 
 ✅ Desenvolvimento de projetos  para consolidar e aplicar as habilidades adquiridas, focando em desafios do mundo real.
 
