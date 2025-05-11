@@ -1,15 +1,6 @@
 ## Olá, sou Miris 👋
 
-Sou uma **profissional multidisciplinar** com experiência em **dados, metodologias ágeis e experiência do cliente**.  
-Atualmente, estou focada no **desenvolvimento back-end com Python**, aprimorando minhas habilidades para criar aplicações escaláveis e eficientes.
-
- 🚀 O que estou fazendo agora?
- 
-✅ Aprofundamento de conhecimentos em Python, com ênfase no desenvolvimento de aplicações web
-
-✅ Exploração de frameworks como Flask e Django, visando a construção de soluções robustas e escaláveis.  
-
-✅ Desenvolvimento de projetos  para consolidar e aplicar as habilidades adquiridas, focando em desafios do mundo real.
+Sou estudante de Análise e Desenvolvimento de Sistemas e tenho direcionado minha carreira para o desenvolvimento de software. Possuo experiência com Python, Django, JavaScript, HTML, CSS, APIs, bancos de dados relacionais (Oracle, AWS Athena), SQL e Git. Atuei como Scrum Master e Analista de Dados, o que me proporcionou visão de negócio, domínio de metodologias ágeis e facilidade na comunicação entre times técnicos e não técnicos. Hoje, foco em aplicar esses conhecimentos em projetos de software, buscando desenvolver soluções eficientes, seguras e escaláveis. Busco oportunidades para atuar como desenvolvedora e continuar evoluindo tecnicamente.
 
 📫 Vamos conectar?
 
