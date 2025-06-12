@@ -1,6 +1,6 @@
 ## Olá, sou Miris 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e tenho direcionado minha carreira para o desenvolvimento de software. Possuo experiência com Python, Django, JavaScript, HTML, CSS, APIs, bancos de dados relacionais (Oracle, AWS Athena), SQL e Git. Atuei como Scrum Master e Analista de Dados, o que me proporcionou visão de negócio, domínio de metodologias ágeis e facilidade na comunicação entre times técnicos e não técnicos. Hoje, foco em aplicar esses conhecimentos em projetos de software, buscando desenvolver soluções eficientes, seguras e escaláveis. Busco oportunidades para atuar como desenvolvedora e continuar evoluindo tecnicamente.
+Sou estudante de Análise e Desenvolvimento de Sistemas e tenho direcionado minha carreira para o desenvolvimento de software. Possuo experiência com Python, JavaScript, HTML, CSS, APIs, bancos de dados relacionais (Oracle, AWS Athena), SQL e Git. Atuei como Scrum Master e Analista de Dados, o que me proporcionou visão de negócio, domínio de metodologias ágeis e facilidade na comunicação entre times técnicos e não técnicos. Hoje, foco em aplicar esses conhecimentos em projetos de software, buscando desenvolver soluções eficientes, seguras e escaláveis. Busco oportunidades para atuar como desenvolvedora e continuar evoluindo tecnicamente.
 
 📫 Vamos conectar?
 
