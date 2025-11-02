@@ -1,6 +1,27 @@
 ## Olá, sou Miris 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e tenho direcionado minha carreira para o desenvolvimento de software. Possuo experiência com Python, JavaScript, HTML, CSS, APIs, bancos de dados relacionais (Oracle, AWS Athena), SQL e Git. Atuei como Scrum Master e Analista de Dados, o que me proporcionou visão de negócio, domínio de metodologias ágeis e facilidade na comunicação entre times técnicos e não técnicos. Hoje, foco em aplicar esses conhecimentos em projetos de software, buscando desenvolver soluções eficientes, seguras e escaláveis. Busco oportunidades para atuar como desenvolvedora e continuar evoluindo tecnicamente.
+Sou uma desenvolvedora com foco no ecossistema **JavaScript/TypeScript**, atuando profissionalmente com **React.js** e **Node.js**.
+
+Minha trajetória profissional me proporcionou uma visão além do código: tenho experiência prática com **Metodologias Ágeis (Scrum)** e uma base sólida em ** Banco de Dados (SQL)**. Essa bagagem me ajuda a entender o ciclo de vida do software (SDLC) e a construir soluções mais eficientes e alinhadas ao negócio.
+
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e sempre buscando aprimorar minhas habilidades em arquitetura de software e boas práticas de desenvolvimento (como TDD e CI/CD).
+
+---
+
+### 💻 Minha Tech Stack
+
+| Frontend | Backend | Dados  & Testes |
+| React.js | Node.js | SQL (PostgreSQL, Oracle) | Docker |
+| TypeScript | Python | Git / GitHub |
+| JavaScript | APIs RESTful | CI/CD |
+| HTML5 / CSS3 |Testes Automatizados |
+
+
+### 🌱 O que estou fazendo agora:
+
+* 🚀 Trabalhando em projetos desafiadores com React, Node e TypeScript.
+* 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+
 
 📫 Vamos conectar?
 
