@@ -10,8 +10,8 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e sempre b
 
 ### 💻 Minha Tech Stack
 
-| Frontend | Backend | Dados  & Testes |
-| React.js | Node.js | SQL (PostgreSQL, Oracle) | Docker |
+| Frontend | Backend | Dados 
+| React.js | Node.js | Docker |
 | TypeScript | Python | Git / GitHub |
 | JavaScript | APIs RESTful | CI/CD |
 | HTML5 / CSS3 |Testes Automatizados |
