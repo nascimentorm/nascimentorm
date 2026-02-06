@@ -1,5 +1,7 @@
 # Olá, sou Miris 👋 
 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY4ZGE4YjU1Zjg0ZDVlOTg0ZDVlOTg0ZDVlOTg0ZDVlJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ25vcmUmY3Q9Zw/3o7TKMGpxofQHLOX5u/giphy.gif
+
 Sou uma desenvolvedora com foco no ecossistema **JavaScript/TypeScript**, atuando profissionalmente com **React.js** e **Node.js**.
 
 Minha trajetória profissional me proporcionou uma visão além do código: tenho experiência prática com **Metodologias Ágeis (Scrum)** e uma base sólida em banco de Dados (SQL). Essa bagagem me ajuda a entender o ciclo de vida do software (SDLC) e a construir soluções mais eficientes e alinhadas ao negócio.
