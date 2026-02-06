@@ -20,7 +20,6 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e sempre b
 ### 🌱 O que estou fazendo agora:
 
 * 🚀 Trabalhando em projetos desafiadores com React, Node e TypeScript.
-* 🎓 Cursando Análise e Desenvolvimento de Sistemas.
   
 
 📫 Vamos conectar?
