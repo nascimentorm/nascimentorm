@@ -1,6 +1,8 @@
 # Olá, sou Miris 👋 
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY4ZGE4YjU1Zjg0ZDVlOTg0ZDVlOTg0ZDVlOTg0ZDVlJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ25vcmUmY3Q9Zw/3o7TKMGpxofQHLOX5u/giphy.gif
+<p align="center">
+  <img src="LINK_DO_GIF_AQUI" width="300">
+</p>
 
 Sou uma desenvolvedora com foco no ecossistema **JavaScript/TypeScript**, atuando profissionalmente com **React.js** e **Node.js**.
 
