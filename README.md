@@ -32,9 +32,3 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e sempre b
   <img src="https://raw.githubusercontent.com/andrergel/andrergel/master/assets/fogo.gif" width="100%">
 </p>
 
----
-
-<p align="right">
-  <i style="color: #6A0DAD;">"A 50ª Colheita exige mais do que força; exige astúcia."</i> <br>
-  <b>Amanhecer na Colheita</b> 🌅🏹
-</p>
