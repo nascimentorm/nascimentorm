@@ -1,7 +1,8 @@
-# Olá, sou Miris 👋 🕊️🔥
+# Olá, sou Miris 👋 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=E2B04D&height=150&section=header&text=Distrito:%20Home%20Office&fontSize=50&animation=fadeIn&fontAlignY=50" />
+  <img src="https://img.shields.io/badge/DISTRITO-HOME%20OFFICE-E2B04D?style=for-the-badge&labelColor=000000" height="45">
+  <img src="https://img.shields.io/badge/50ª_EDIÇÃO-COLHEITA-000000?style=for-the-badge&labelColor=E2B04D" height="45">
 </p>
 
 Sou uma desenvolvedora com foco no ecossistema **JavaScript/TypeScript**, atuando profissionalmente com **React.js** e **Node.js**.
