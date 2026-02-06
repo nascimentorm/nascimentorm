@@ -1,13 +1,4 @@
-# Olá, sou Miris 👋 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andrergel/andrergel/master/assets/fogo.gif" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DISTRITO-HOME%20OFFICE-6A0DAD?style=for-the-badge&labelColor=000000" height="45">
-</p>
-
-> "O amanhecer não é apenas o fim da noite, é o início de uma nova arena." 🌅🏹
+# Olá, sou Miris 👋
 
 Sou uma desenvolvedora com foco no ecossistema **JavaScript/TypeScript**, atuando profissionalmente com **React.js** e **Node.js**.
 
